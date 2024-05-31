@@ -1,5 +1,5 @@
-# Contos do programador é um programa para desabafo sincero a respeito da saúde mental do programador
-
+# Seja bem vindo!
+print('Olá, visitante!')
 nome = str(input('Qual o seu nome ou apelido?'))
 idade = int(input('Qual a sua idade?'))
 teste = str(input('Você é programador?'))
