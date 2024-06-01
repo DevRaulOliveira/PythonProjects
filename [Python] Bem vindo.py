@@ -7,7 +7,8 @@ teste = str(input('Você é programador?'))
 if teste == 'sim' or teste == 's' or teste == 'SIM' or  teste =='S':
     prog = str(input('Qual linguagem de programação está aprendendo?'))
     print('Bem vindo programador!')
-    print(f'Seja bem vindo, {nome}. Atualmente voce está com {idade} anos! Aprender uma nova linguagem de programação nunca é uma atividade simples, inclusive te desejo uma boa sorte no aprendizado da linguagem {prog}!  Fico feliz por você ter aberto esse programa, é um programa simples feito em Python!')
+    print(f'Seja bem vindo, {nome}. Atualmente voce está com {idade} anos! Aprender uma nova linguagem de programação nunca é uma atividade simples, \ 
+    inclusive te desejo uma boa sorte no aprendizado da linguagem {prog}!Fico feliz por você ter aberto esse programa, é um programa simples feito em Python!')
     print('Boa sorte na sua jornada! Obrigado por participar! Bora aprender juntos, fique a vontade para mandar mensagem e seguir nas redes sociais!')
 else:
     print('Bem vindo visitante!')
