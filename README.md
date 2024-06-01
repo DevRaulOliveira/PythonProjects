@@ -1,4 +1,5 @@
 # Python Projects
+1[Image](https://images.unsplash.com/photo-1547394765-185e1e68f34e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 Este repositório contem programas simples desenvolvidos ao longo da pratica e estudos realizado utilizando Python. Este documento inclui também as documentações desses projetos menores realizados durante o processo de aprendizado.
 ## 1 - Bem vindo!
 ![image](https://github.com/DevRaulOliveira/BemVindo-py/assets/168892121/e9f025dc-4898-4267-adf3-99d3a34d5933)
