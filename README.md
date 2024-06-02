@@ -9,6 +9,8 @@ Este repositório contem programas simples desenvolvidos ao longo da pratica e e
 
 <br> Programa de boas vindas, simples realizado utilizando linguagem Python!
 <br> Desenvolvi esse código simples, como ferramenta de recepção de boas vindas para os visitantes. Utilizando conceitos básicos de **inputs** e de tomada de decisão simples.
+- Conceitos abordados:
+  - Inputs, if e madlibs.
 
 ### Versão do sistema e aplicações
 #### Python
