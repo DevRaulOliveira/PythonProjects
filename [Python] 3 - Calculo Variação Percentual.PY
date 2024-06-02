@@ -18,7 +18,7 @@ j = z - i
 y = (abs(j)/i)*100
 
 if j < 0:
-    print('A variação percentual foi de:-{}',y,'%')
+    print('A variação percentual foi de: -',y,'%')
 else:
-    print('A variação percentual foi de +',y,'%')
-print('Obrigado pelo acesso!')
+    print('A variação percentual foi de: +',y,'%')
+print('\nObrigado pelo acesso!')
