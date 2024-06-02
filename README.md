@@ -42,7 +42,13 @@ O programa foi desenvolvido utilizando a versão 1.89.1 do Visual Studio Code.
 ![image](https://github.com/DevRaulOliveira/PythonProjects/assets/168892121/175334c6-e885-42e1-ae00-c1e11544bd51)
 <br> O calculo de variação percentual, realiza a comparação entre dois numeros e calcula o valor da variação percentual entre esses dois numeros. Ambos são numeros inseridos pelo usuário para a realização do calculo.
 - Conceitos abordados:
-  - Input, loop while, abs e os conceitos de if e else. 
+  - Input, loop while, abs e os conceitos de if e else.
+### Versão do sistema e aplicações
+#### Python
+O programa foi desenvolvido na versão 3.12.3 do Python.
+#### Visual Studio Code
+O programa foi desenvolvido utilizando a versão 1.89.1 do Visual Studio Code.
+      
 
 ## 4 - Adivinhe o numero
 ![image](https://github.com/DevRaulOliveira/PythonProjects/assets/168892121/cd4ec6f0-cb7e-48ac-95fc-b65526e2bed3)
@@ -53,12 +59,4 @@ O programa foi desenvolvido utilizando a versão 1.89.1 do Visual Studio Code.
 #### Python
 O programa foi desenvolvido na versão 3.12.3 do Python.
 #### Visual Studio Code
-O programa foi desenvolvido utilizando a versão 1.89.1 do Visual Studio Code.
-      
-
-
-
-
-
-
-
+O programa foi desenvolvido utilizando a versão 1.89.1 do Visual Studio Code
