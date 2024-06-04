@@ -60,3 +60,17 @@ O programa foi desenvolvido utilizando a versão 1.89.1 do Visual Studio Code.
 O programa foi desenvolvido na versão 3.12.3 do Python.
 #### Visual Studio Code
 O programa foi desenvolvido utilizando a versão 1.89.1 do Visual Studio Code
+
+
+## 5 - Pedra, papel e tesoura
+![image](https://github.com/DevRaulOliveira/PythonProjects/assets/168892121/d2579280-f273-46a4-866d-450f48d7c2e0)
+<br> Jogo de **Pedra, papel e tesoura**. Desenvolvido como ferramenta de aprendizado e treino de lógica de programação. O jogo é uma competição de Pedra, papel e tesoura realizado entre o usuário e o computador! Exibindo mensagens de acordo com o resultado!
+- Conceitos abordados
+  - Importação de modulo random, random.choice, input, funções, condicional e return.
+### Versão do sistema e aplicações
+#### Python
+O programa foi desenvolvido na versão 3.12.3 do Python.
+#### Visual Studio Code
+O programa foi desenvolvido utilizando a versão 1.89.1 do Visual Studio Code
+
+
