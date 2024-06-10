@@ -59,7 +59,7 @@ O programa foi desenvolvido utilizando a versão 1.89.1 do Visual Studio Code.
 #### Python
 O programa foi desenvolvido na versão 3.12.3 do Python.
 #### Visual Studio Code
-O programa foi desenvolvido utilizando a versão 1.89.1 do Visual Studio Code
+O programa foi desenvolvido utilizando a versão 1.89.1 do Visual Studio Code.
 
 
 ## 5 - Pedra, papel e tesoura
@@ -71,6 +71,23 @@ O programa foi desenvolvido utilizando a versão 1.89.1 do Visual Studio Code
 #### Python
 O programa foi desenvolvido na versão 3.12.3 do Python.
 #### Visual Studio Code
-O programa foi desenvolvido utilizando a versão 1.89.1 do Visual Studio Code
+O programa foi desenvolvido utilizando a versão 1.89.1 do Visual Studio Code.
+
+## 6 - Cara ou coroa
+
+![image](https://github.com/DevRaulOliveira/PythonProjects/assets/168892121/271e8530-d883-49e4-b8db-1c97121aa93e)
+![image](https://github.com/DevRaulOliveira/PythonProjects/assets/168892121/1ac191c4-cffd-45c3-ac44-adb0f2e95bc1)
+
+
+<br> O jogo cara ou coroa apresenta duas opções para o usuário estar escolhendo e competindo com o computador. Possui 50% de chance de vitória e retorna o resultado de acordo com resultado!
+- Conceitos abordados
+  - Modulo random, input, random.choice, if e else.
+### Versão do sistema e aplicações
+#### Python
+O programa foi desenvolvido na versão 3.12.3 do Python.
+#### Visual Studio Code
+O programa foi desenvolvido utilizando a versão 1.89.1 do Visual Studio Code.
+
+
 
 
